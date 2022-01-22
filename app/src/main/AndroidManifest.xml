@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.example.com.music">
+
+    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_music_"
+        android:label="@string/app_name"
+        android:roundIcon="@drawable/ic_music_"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".FeedbackActivity"></activity>
+        <activity android:name=".AboutUs" />
+        <activity android:name=".SplaceScreen">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".PlayerActivity" />
+        <activity android:name=".MainActivity" />
+    </application>
+
+</manifest>

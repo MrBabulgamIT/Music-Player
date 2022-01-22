@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Music</string>
+
+
+    <string name="menu_home">Home</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_Rate">Rate Us</string>
+    <string name="menu_aboutUs">About Us</string>
+    <string name="menu_contactUs">Contact Us</string>
+    <string name="menu_feedback">Feedback</string>
+
+    <string name="contact_us">
+        \n\nMobile Number: 01794755094\n\n
+        My Facebook Id link http://www.facebook.com/sa.jony.9191\n\n
+        My WhatsApp/imo Number 01794755094\n\n
+        My Gmail Account jony94755094@gmail.com , sajony9191@gmail.com\n\n
+        My Instagram id https://www.instagram.com/md.samiul_alim_jony\n\n
+
+    </string>
+
+
+    <string name="jont_text">
+
+        Assalamualaikum.\n\nMy Name is Md.Samiul Alim Jony.My Hometown is chapai-Nawabganj,Rajshahi,Bagnladesh.
+        \n\nThis app any objection so you can inform myself. Go Menu option Then click Feedback Option then type your name
+        and Message Then Click sent Button.
+
+        Thanks for using this Apps.\n\n
+
+        Allah Hafiz..\n\n
+
+        ℙ𝕠𝕨𝕖𝕣 𝔹𝕪 𝕭𝛼𝖇𝖚𝖑𝖌𝛼𝖒
+
+    </string>
+
+</resources>
